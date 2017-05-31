@@ -1,1 +1,1 @@
-[]
+{"meta":{"title":"logos","subtitle":null,"description":null,"author":"Tao Yan","url":"http://yoursite.com"},"pages":[{"title":"about","date":"2017-05-29T11:30:30.000Z","updated":"2017-05-29T11:31:51.544Z","comments":true,"path":"about/index.html","permalink":"http://yoursite.com/about/index.html","excerpt":"","text":"本文链接：&lt;%= post.title %&gt; 作者：TaoYan 出处：http://taoyanlogos.github.io/本文基于 知识共享署名-相同方式共享 4.0 国际许可协议发布，欢迎转载，演绎或用于商业目的，但是必须保留本文的署名Tao Yan及链接。"}],"posts":[]}
